@@ -10,19 +10,19 @@ This project was created to gain hands-on experience with the complete PCB desig
 
 ## PCB Layout
 
-![PCB Layout](docs/pcb-layout.png)
+![PCB Layout](Docs/pcb-layout.png)
 
 ## 3D View (Front)
 
-![3D Front](docs/pcb-3d-front.png)
+![3D Front](Docs/pcb-3d-front.png)
 
 ## 3D View (Back)
 
-![3D Back](docs/pcb-3d-back.png)
+![3D Back](Docs/pcb-3d-back.png)
 
 ## Schematic
 
-![Schematic](docs/schematic.svg)
+![Schematic](Docs/schematic.svg)
 
 ---
 
