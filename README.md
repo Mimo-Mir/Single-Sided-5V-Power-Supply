@@ -95,8 +95,7 @@ During this project I learned how to:
 | 1000µF Electrolytic Capacitor | 1 | Smooths the input voltage and reduces ripple |
 | 100µF Electrolytic Capacitor | 1 | Stabilizes the regulated output voltage |
 | 100nF Ceramic Capacitor | 2 | Filters high-frequency noise |
-| LED (5 mm) | 1 | Indicates that the power supply is ON |
-| 330Ω Resistor | 1 | Limits the LED current |
+| Bridge Rectifier| 1 | converts AC into DC using four or more diodes |
 | 2-Pin Screw Terminal | 2 | Input and output power connections |
 
 ---
