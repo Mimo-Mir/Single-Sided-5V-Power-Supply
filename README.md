@@ -22,7 +22,7 @@ This project was created to gain hands-on experience with the complete PCB desig
 
 ## Schematic
 
-![Schematic](Docs/schematic.svg)
+![Schematic](Docs/schematic.png)
 
 ---
 
