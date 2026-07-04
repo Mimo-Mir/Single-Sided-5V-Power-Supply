@@ -293,7 +293,7 @@ The project is organized to keep the design files, documentation, and manufactur
 ```text
 Single-Sided-5V-Power-Supply/
 │
-├── docs/
+├── Docs/
 │   ├── schematic.svg
 │   ├── pcb-layout.png
 │   ├── pcb-3d-front.png
@@ -456,3 +456,4 @@ I plan to continue building more PCB projects to further improve my skills in el
 This project is licensed under the **MIT License**.
 
 See the **LICENSE** file for more details.
+
