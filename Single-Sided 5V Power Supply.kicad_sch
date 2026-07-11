@@ -1486,7 +1486,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470u"
+		(property "Value" "3300uF"
 			(at 149.86 80.3909 0)
 			(effects
 				(font
@@ -1556,7 +1556,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.01u"
+		(property "Value" "0.33uF"
 			(at 166.37 81.2799 0)
 			(effects
 				(font
@@ -1835,7 +1835,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.01u"
+		(property "Value" "0.01uF"
 			(at 182.88 81.2799 0)
 			(effects
 				(font
