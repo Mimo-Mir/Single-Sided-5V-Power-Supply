@@ -169,7 +169,6 @@ These capacitor values follow the recommendations provided in the LM7805 datashe
 | 3300 µF Electrolytic Capacitor (C1) | 1 | Smooths the rectified voltage and reduces ripple |
 | 0.33 µF Ceramic Capacitor (C2) | 1 | LM7805 input bypass capacitor for stability |
 | 0.1 µF Ceramic Capacitor (C3) | 1 | LM7805 output bypass capacitor for stability |
-| LED | 1 | Indicates power is available at the output |
 | 330 Ω Resistor | 1 | Limits LED current |
 | 2-Pin Screw Terminal | 2 | Input and output power connections |
 
@@ -202,13 +201,6 @@ For the intended **500 mA load**, a higher capacitance improves voltage smoothin
 These capacitors are placed close to the regulator input and output pins to improve high-frequency filtering and regulator stability.
 
 Their values follow the recommendations provided in the LM7805 datasheet.
-
----
-
-### LED Power Indicator
-
-The LED provides a simple visual indication that the regulated 5V output is available.
-
 ---
 
 ### Screw Terminals
